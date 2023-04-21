@@ -97,3 +97,9 @@ C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\obj\Debug\net7.0\refi
 C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\obj\Debug\net7.0\GradeBook.Tests.pdb
 C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\obj\Debug\net7.0\GradeBook.Tests.genruntimeconfig.cache
 C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\obj\Debug\net7.0\ref\GradeBook.Tests.dll
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\GradeBook.deps.json
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\GradeBook.runtimeconfig.json
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\GradeBook.exe
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\GradeBook.dll
+C:\Users\filip\repos\gradebook_dotnet\test\GradeBook.Tests\bin\Debug\net7.0\GradeBook.pdb

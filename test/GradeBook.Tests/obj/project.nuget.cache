@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qw8KPuUEbGuOVaf9ExMKV3jV1Mxr2LUANFUF4oqX6BJR88GcZPcsDu44gD7ZdKUR7IdraKk1ugP/uZaApqUBUg==",
+  "dgSpecHash": "dNtkWtXHCIdPCQzK5GggDbd99ZmijUkQ0fCK4Yfh4OagxkPoDmU+YMHjlnroRigR0nqZ+EW28u83iN0Ho4NVVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\filip\\repos\\gradebook_dotnet\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
   "expectedPackageFiles": [
